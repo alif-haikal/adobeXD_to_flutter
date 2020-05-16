@@ -36,6 +36,5 @@ Try Adobe to Flutter plugin
  
  ![alt text](https://github.com/alif-haikal/adobeXD_to_flutter/blob/master/assets/images/chain.png?raw=true)
 
-
-
+## 7. Run on Flutter..
 
