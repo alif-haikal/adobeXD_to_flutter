@@ -1,9 +1,11 @@
 # adobe_to_flutter
 
-Try Adobe to Flutter plugin 
+Try Adobe to Flutter plugin
+## The output for this project to display this Design On Flutter using Adobe XD
+![alt text](https://github.com/alif-haikal/adobeXD_to_flutter/blob/master/assets/images/output.png?raw=true)
 
 ## Getting Started
-To make developement Faster
+
 
 ## 1. Install Xd to Flutter plugin
 ![alt text](https://github.com/alif-haikal/adobeXD_to_flutter/blob/master/assets/images/xd_to_flutter_plugin.png?raw=true)
