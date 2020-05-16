@@ -33,7 +33,8 @@ Try Adobe to Flutter plugin
       - on Settings, tick (Resolution Aware Images , Export Color Assets) and Export All Widgets
       - If error appear, the wireframe design must be unlink,
       - Go to Layers, click on the seleted base (eg: iPhone XR/XS ...) and unlink all component that may contain "chain" symbol
-      ![alt text](https://github.com/alif-haikal/adobeXD_to_flutter/blob/master/assets/images/chain.png?raw=true)
+ 
+ ![alt text](https://github.com/alif-haikal/adobeXD_to_flutter/blob/master/assets/images/chain.png?raw=true)
 
 
 
