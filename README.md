@@ -6,7 +6,7 @@ Try Adobe to Flutter plugin
 To make developement Faster
 
 1. Install Xd to Flutter plugin
-![alt text](https://github.com/[alif-haikal]/[adobeXD_to_flutter]/[master]/assets/images/xd_to_flutter_plugin.png?raw=true)
+![alt text](https://github.com/alif-haikal/adobeXD_to_flutter/blob/master/assets/images/unDraw.png?raw=true)
 
 2. Install unDraw plugins
 
