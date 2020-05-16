@@ -1,16 +1,26 @@
 # adobe_to_flutter
 
-A new Flutter project.
+Try Adobe to Flutter plugin 
 
 ## Getting Started
+To make developement Faster
 
-This project is a starting point for a Flutter application.
+## 1. Install Xd to Flutter plugin
+![alt text](https://github.com/alif-haikal/adobeXD_to_flutter/blob/master/assets/images/xd_to_flutter_plugin.png?raw=true)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## 2. Install unDraw plugins
+![alt text](https://github.com/alif-haikal/adobeXD_to_flutter/blob/master/assets/images/unDraw.png?raw=true)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+## 3. Use unDraw template as a design
+![alt text](https://github.com/alif-haikal/adobeXD_to_flutter/blob/master/assets/images/unDraw2.png?raw=true)
+
+
+## 4. Also Use Wireframe Mobile Kit from Adobe
+   https://www.behance.net/gallery/55462459/Wires-free-wireframe-kits-for-Adobe-XD
+
+
+
+
