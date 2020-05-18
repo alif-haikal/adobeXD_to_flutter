@@ -24,8 +24,8 @@ Try Adobe to Flutter plugin
    https://www.behance.net/gallery/55462459/Wires-free-wireframe-kits-for-Adobe-XD
 
 
-## 5. Change to your editor , Create new project on IDE, and add package "adobe_xd" inside pubspec.yaml
-
+## 5. Change to your editor , Create new project on IDE, and add package "adobe_xd" inside pubspec.yaml (Refer link Below)
+   https://pub.dev/packages/adobe_xd#-installing-tab-
 
 ## 6. Back to AdobeXD, open XD to Flutter Plugin and select option UI Panel
       - browse the flutter project (based on recent project that you created)
